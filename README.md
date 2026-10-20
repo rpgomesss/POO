@@ -121,3 +121,7 @@ Actions scheduled to trigger automatically at a given time of day (in minutes si
 - **Load:** restores state from a previously saved `.bin` file
 - The default file is `app/estado.bin`
 
+# Developed by:  
+[Rui Gomes](https://github.com/rpgomesss)  
+[Ricardo Rodrigues](https://github.com/RicA111225)
+[Gabriel Faria](https://github.com/glfaria)
