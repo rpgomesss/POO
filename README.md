@@ -123,5 +123,5 @@ Actions scheduled to trigger automatically at a given time of day (in minutes si
 
 # Developed by:  
 [Rui Gomes](https://github.com/rpgomesss)  
-[Ricardo Rodrigues](https://github.com/RicA111225)
+[Ricardo Rodrigues](https://github.com/RicA111225)  
 [Gabriel Faria](https://github.com/glfaria)
